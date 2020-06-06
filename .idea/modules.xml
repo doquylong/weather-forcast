@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeatherApp-master.iml" filepath="$PROJECT_DIR$/.idea/modules/WeatherApp-master.iml" group="WeatherApp-master" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeatherApp-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeatherApp-master-app.iml" group="WeatherApp-master/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-forcast.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-forcast.iml" group="weather-forcast" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/weather-forcast-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/weather-forcast-app.iml" group="weather-forcast/app" />
     </modules>
   </component>
 </project>

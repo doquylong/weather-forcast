@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Accuwether app</string>
+    <string name="app_name">Weather app</string>
     <string name="assets_flags_path">file:///android_asset/flags/%s.png</string>
     <string name="assets_weather_icons_path">file:///android_asset/weather_icons/%02d.png</string>
 
@@ -14,12 +14,12 @@
     <string name="day_of_week">%ta</string>
     <string name="abbreviated_date">%1$tb %1$te</string>
 
-    <string name="error_add_to_favorite">Ошибка при попытке добавить в избранное</string>
+    <string name="error_add_to_favorite">Can\'t add to favorite</string>
     <string name="button_choose_your_country">Choose your country or region</string>
 
     <string name="error_auth">Auth error stub.</string>
     <string name="error_connect">Connection error.</string>
-    <string name="error_load_weather">Ошибка при загрузке погоды...</string>
+    <string name="error_load_weather">Can\'t load weather</string>
 
     <string name="menu_action_add_favorite">Add to Favorites</string>
     <string name="menu_action_remove_favorite">Remove from Favorites</string>

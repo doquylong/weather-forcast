@@ -6,7 +6,7 @@ import ua.dp.michaellang.weather.data.entity.Forecast.HourlyForecast;
 import java.util.List;
 
 
-public class CityWeather {
+public class  CityWeather {
     private List<DailyForecast> mDailyForecasts;
     private List<HourlyForecast> mHourlyForecasts;
 
